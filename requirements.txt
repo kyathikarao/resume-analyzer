@@ -5,4 +5,3 @@ numpy
 nltk
 spacy
 pdfplumber
-en-core-web-sm
